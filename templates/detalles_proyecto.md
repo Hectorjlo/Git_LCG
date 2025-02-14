@@ -4,7 +4,9 @@ Fecha: 14/02/2025
 
 Participantes: 
 
-- Héctor Jesús López Ordaz  <email: hectorjl@lcg.unam.mx> 
+me caes mal :) 
+ 
+- Héctor Jesús López Ordaz  <email: hectorjl@lcg.unam.mx> -> basico tú 
 
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
